@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<CrashGUID>UE4CC-Windows-0E0B54594886669535992B8D2B5D6067_0000</CrashGUID>
+		<ProcessId>7264</ProcessId>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<IsEnsure>false</IsEnsure>
+		<IsAssert>true</IsAssert>
+		<CrashType>Assert</CrashType>
+		<SecondsSinceStart>2435</SecondsSinceStart>
+		<GameName>UE4-LizardSimulator</GameName>
+		<ExecutableName>UE4Editor</ExecutableName>
+		<BuildConfiguration>Development</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>Windows</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Editor</EngineMode>
+		<EngineModeEx>Vanilla</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>4.14.0-3195953+++UE4+Release-4.14</EngineVersion>
+		<CommandLine>&quot;D:/LizardSim/LizardSimulator/LizardSimulator.uproject&quot;-EpicPortal</CommandLine>
+		<LanguageLCID>1053</LanguageLCID>
+		<AppDefaultLocale>sv_SE</AppDefaultLocale>
+		<BuildVersion>++UE4+Release-4.14-CL-3195953</BuildVersion>
+		<IsUE4Release>true</IsUE4Release>
+		<UserName>dahlol</UserName>
+		<BaseDir>C:/Program Files/Epic Games/4.14/Engine/Binaries/Win64/</BaseDir>
+		<RootDir>C:/Program Files/Epic Games/4.14/</RootDir>
+		<MachineId>4238B2F14C5F74739043719E961D29D8</MachineId>
+		<EpicAccountId>5d6c078fc4ea4ac69f2e2afd9b0acfe3</EpicAccountId>
+		<CallStack />
+		<SourceContext />
+		<UserDescription />
+		<UserActivityHint />
+		<ErrorMessage>Assertion failed: (Index &gt;= 0) &amp; (Index &lt; ArrayNum) [File:d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\core\public\Containers/Array.h] [Line: 634] &nl;Array index out of bounds: 0 from an array of size 0&nl;</ErrorMessage>
+		<CrashDumpMode>0</CrashDumpMode>
+		<CrashReporterMessage />
+		<Misc.NumberOfCores>4</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>4</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>Intel(R) Core(TM) i5-4460 CPU @ 3.20GHz</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>NVIDIA GeForce GTX 970</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 7</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor>Service Pack 1</Misc.OSVersionMinor>
+		<MemoryStats.TotalPhysical>8530411520</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>8796092891136</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>65536</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>8</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>2977918976</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>8793492348928</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>1109684224</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>1117601792</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>1783709696</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>1963036672</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<TimeOfCrash>636166992605170000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 7 Service Pack 1 64b]</PlatformFullName>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+	</PlatformProperties>
+</FGenericCrashContext>
